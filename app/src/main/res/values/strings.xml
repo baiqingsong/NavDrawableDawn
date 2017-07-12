@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavDrawableDawn</string>
+    <string name="drawer_header">Drawer Header</string>
+</resources>
